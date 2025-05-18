@@ -80,7 +80,7 @@ Use it to surprise your best friend, sibling, partner, or anyone special!  🌈
 
 ---
 
-DEMO [Here](https://suriya273.github.io/Birthday-surprise-/)
+DEMO [Here](https://suriya273.github.io/Birthday-gift-1/)
 
 Made with ❤️ by [SURIYA]
 

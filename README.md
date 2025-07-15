@@ -66,17 +66,15 @@ Birthday-surprise
 ```
 ---
 
-📬 Contribute:
-Feel free to fork this repo and add your creative touch! 🪄
-Pull requests are welcome 💡
-
----
-
    🥳 Make Birthdays Memorable!:
    
 This project is all about spreading happiness through code  💌
 
 Use it to surprise your best friend, sibling, partner, or anyone special!  🌈
+
+📬 Contribute:
+Feel free to fork this repo and add your creative touch! 🪄
+Pull requests are welcome 💡
 
 ---
 
